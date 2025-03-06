@@ -46,30 +46,23 @@
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
 
-```
 ``` 
----
-
+### QuizQuestionsActivity Route
 - *QuizQuestionsActivity* : (https://github.com/IUCampus/mobile-software-engineering-02/blob/main/app/src/main/java/franciswebapp/com/devquizapp/QuizQuestionActivity.kt)
----
 
 ### **Creating a new QuizQuestionActivity**
  
 **Method:** `GET`  
 
-```
-
----
+### Question Route
 - *Question.kt* : (https://github.com/IUCampus/mobile-software-engineering-02/blob/main/app/src/main/java/franciswebapp/com/devquizapp/Question.kt)
 ---
 ### **Creating a Question**
   
 **Method:** `POST`  
 
-```
-
----
-- *ResultActivity* : (https://github.com/IUCampus/mobile-software-engineering-02/blob/main/app/src/main/java/franciswebapp/com/devquizapp/ResultActivity.kt)
+### ResultActivity Route
+- *ResultActivity* : (https://github.com/IUCampus/mobile-software-engineering-02/blob/main/app/src/main/java/franciswebapp/com/devquizapp/ResultActivity.kt) 
 ---
 ### **Creating a New ResultActivity**
  
@@ -90,7 +83,6 @@
 - Implement AI-Driven adaptive quizzes.
 - Add Multiplayer quiz mode.
 
-```
 
 ### Team Members
 
