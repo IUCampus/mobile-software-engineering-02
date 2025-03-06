@@ -20,6 +20,8 @@
 - Review and Comments.
 
 ### Class Diagram
+![image](https://github.com/user-attachments/assets/fa7ff7b7-2a7c-4321-b8c4-4cc0d1e28288)
+
 
   <img width="488" alt="image" src="https://github.com/francisChigozie/finalProjectIronhack/assets/81627242/a691a517-b2da-4a23-8b28-8faab25f16f3">
 
