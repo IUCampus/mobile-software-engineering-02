@@ -84,7 +84,3 @@
 - Add Multiplayer quiz mode.
 
 
-### Team Members
-
- Remfert, Christian, Prof. Dr.: christian.remfert@iu.org
-
