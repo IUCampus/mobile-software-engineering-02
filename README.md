@@ -8,7 +8,7 @@
 - Quiz histroy.
 
 ### Class Diagram
-![image](https://github.com/user-attachments/assets/fa7ff7b7-2a7c-4321-b8c4-4cc0d1e28288)
+![image](https://github.com/user-attachments/assets/41784cbc-d301-431b-bf1e-4f3588fb0203)
 
 ### Setup
 - Create the Kotlin Project called Country Quizzing App.
